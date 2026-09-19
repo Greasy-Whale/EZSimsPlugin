@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>0.0.73</version>
-  <url>https://www.mediafire.com/file_premium/zk6lr2kwc2kima3/EZSimsPlugin_0_0_73.zip/file</url>
+  <version>0.0.74</version>
+  <url>https://www.mediafire.com/file/gofkh75zongo2o6/EZSimsPlugin_0_0_74.zip/file</url>
   <mandatory mode="2">true</mandatory>
   <changelog>https://raw.githubusercontent.com/Greasy-Whale/EZSimsPlugin/refs/heads/main/PluginChangelog</changelog>
 </item>
